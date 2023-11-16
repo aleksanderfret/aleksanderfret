@@ -2,7 +2,7 @@
 
 ## 📬 Get in touch
 
-- LinkedIn: linkedin.com/in/aleksander-fret/
+- LinkedIn: https//www.linkedin.com/in/aleksander-fret/
 
 ## &#x1f4c8; My GitHub Stats
 
